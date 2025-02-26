@@ -9,3 +9,4 @@ console.log(3+3)
 
 let name = "Ankit"
 console.log(typeof null)
+console.log(typeof undefined)
